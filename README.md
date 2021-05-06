@@ -1,6 +1,6 @@
-# Hi, I'm Albert Lay!
+# Hi, I'm Albert!
 
-## A little bit about me!
+## A little bit about me
 * 🎓 I'm a second-year CS student at the University of Waterloo 
 * 😺 Currently looking for a 4 months co-op for Winter 2022 (January - April)
 * 👾 I'm still looking for my niche, but I'm currently learning front-end web development!
@@ -12,7 +12,7 @@
 * 🧐 **Technologies**: Git, Tkinter, scipy, numpy, matplotlib
 
 
-## Projects I'm super proud of!
+## Projects I'm super proud of
 ### [MathSoc Cartoons Page](https://mathsoc.uwaterloo.ca/cartoons/) on MathSoc's website
 I collaborated with the coordinator of *MathSoc Cartoons* to design and implement their page on MathSoc's website, which currently houses 20+ 
 of their incredible work 🎉! This project was a huge milestone for me as it was the first of my work that was published for the whole word to see!
@@ -23,6 +23,6 @@ This was the first project I made from scratch! Looking back at the code now, it
 without guidance was truly unforgettable!
 
 
-## Get in touch!
+## Get in touch
 * [LinkedIn](https://www.linkedin.com/in/albertjlay/)
 * [Instagram](https://instagram.com/albertjlay)
