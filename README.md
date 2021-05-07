@@ -14,7 +14,6 @@
 
 ## Projects I'm super proud of
 ### [MathSoc Cartoons Page](https://mathsoc.uwaterloo.ca/cartoons/) on MathSoc's website - 2021
-![Screenshot of Mathsoc Cartoons](https://github.com/albertjlay/albertjlay/blob/main/mathsoc_cartoons.png)
 I collaborated with the coordinator of *MathSoc Cartoons* to design and implement their page on MathSoc's website, which currently houses 20+ 
 of their incredible work 🎉! This project was a huge milestone for me as it was the first of my work that was published for the whole word to see!
 I also learned a lot about color schemes, proper layouting, and a bit of UI design through this experience.
