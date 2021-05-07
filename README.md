@@ -14,6 +14,7 @@
 
 ## Projects I'm super proud of
 ### [MathSoc Cartoons Page](https://mathsoc.uwaterloo.ca/cartoons/) on MathSoc's website - 2021
+![Screenshot of Mathsoc Cartoons](https://github.com/albertjlay/albertjlay/blob/main/mathsoc_cartoons.gif)
 I collaborated with the coordinator of *MathSoc Cartoons* to design and implement their page on MathSoc's website, which currently houses 20+ 
 of their incredible work 🎉! This project was a huge milestone for me as it was the first of my work that was published for the whole word to see!
 I also learned a lot about color schemes, proper layouting, and a bit of UI design through this experience.
@@ -21,7 +22,7 @@ I also learned a lot about color schemes, proper layouting, and a bit of UI desi
 ### [Stats Made Easy](https://github.com/albertjlay/statsmadeeasy) - 2020
 This was the first project I made from scratch! Looking back at the code now, it's a bit of a mess 😅. However, the feeling of actually building something
 without guidance was truly unforgettable!
-![Image of Stats Made Easy](https://github.com/albertjlay/albertjlay/blob/main/graph_normal.gif)
+![Screenshot of Stats Made Easy](https://github.com/albertjlay/albertjlay/blob/main/graph_normal.gif)
 
 
 ## Get in touch
