@@ -1,29 +1,19 @@
-# Hi, I'm Albert!
+# :wave: Hi, I'm Albert
 
 ## A little bit about me
-* 🎓 I'm a second-year CS student at the University of Waterloo 
-* 😺 Currently looking for a 4 months co-op for Winter 2022 (January - April)
-* 👾 I'm still looking for my niche, but I'm currently learning front-end web development!
-* ✍🏼 Take a look at my **[resume](https://my.indeed.com/p/albertl-j1i6rmt)**
+* :book: I'm a second-year CS student at the University of Waterloo 
+* :mag: Currently looking for a 4 months co-op for Winter 2022 (January - April)
+* :space_invader: Currently learning React!
+* :writing_hand: Take a look at my **[resume](https://my.indeed.com/p/albertl-j1i6rmt)**
+
+## Get in touch
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albertjlay/) [<img alt="Instagram" src="https://img.shields.io/badge/albertjlay-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/albertjlay)
+
 
 
 ## Technical skills
-* 😎 **Languages**: HTML, CSS, JavaScript, Python, C
-* 🧐 **Technologies**: Git, Tkinter, scipy, numpy, matplotlib
+### Languages
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
-
-## Projects I'm super proud of
-### [MathSoc Cartoons Page](https://mathsoc.uwaterloo.ca/cartoons/) on MathSoc's website - 2021
-I collaborated with the coordinator of *MathSoc Cartoons* to design and implement their page on MathSoc's website, which currently houses 20+ 
-of their incredible work 🎉! This project was a huge milestone for me as it was the first of my work that was published for the whole word to see!
-I also learned a lot about color schemes, proper layouting, and a bit of UI design through this experience.
-
-### [Stats Made Easy](https://github.com/albertjlay/statsmadeeasy) - 2020
-This was the first project I made from scratch! Looking back at the code now, it's a bit of a mess 😅. However, the feeling of actually building something
-without guidance was truly unforgettable!
-![Screenshot of Stats Made Easy](https://github.com/albertjlay/albertjlay/blob/main/graph_normal.gif)
-
-
-## Get in touch
-* [LinkedIn](https://www.linkedin.com/in/albertjlay/)
-* [Instagram](https://instagram.com/albertjlay)
+### Technologies/frameworks
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
