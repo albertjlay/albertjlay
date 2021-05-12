@@ -3,7 +3,7 @@
 ## A little bit about me
 * :book: I'm a second-year CS student at the University of Waterloo 
 * :mag: Currently looking for a 4 months co-op for Winter 2022 (January - April)
-* :space_invader: Currently learning React!
+* :space_invader: I'm diving deep right now to learn a lot of things, like React, node.js, and Express!
 * :writing_hand: Take a look at my **[resume](https://my.indeed.com/p/albertl-j1i6rmt)**
 
 ## Get in touch!
