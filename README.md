@@ -7,7 +7,7 @@
 * :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/)
 
 ## Get in touch!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albertjlay/) [<img alt="Instagram" src="https://img.shields.io/badge/albertjlay-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/albertjlay)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albertjlay/) [<img alt="Instagram" src="https://img.shields.io/badge/albertjlay-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/albertjlay/?hl=en)
 
 
 
