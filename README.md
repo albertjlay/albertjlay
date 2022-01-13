@@ -2,8 +2,8 @@
 
 ## A little bit about me
 * :book: I'm a second-year CS student at the University of Waterloo 
-* :mag: Currently looking for a 4 months co-op for Fall 2022 (September - December)
-* :space_invader: Focusing on front-end web development and planning to learn back-end in the near future
+* :mag: Currently looking for a 4 months co-op for Spring 2022 (May - August)
+* :space_invader: Currently focusing on backend web development.
 * :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/)
 
 ## Get in touch!
