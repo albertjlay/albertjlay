@@ -1,10 +1,10 @@
 # <img src="https://media.giphy.com/media/2P5VKDDy9mgvBl0xtn/giphy.gif" width="30px"> Hi, I'm Albert
 
 ## A little bit about me
-* :book: I'm a second-year CS student at the University of Waterloo 
-* :mag: Currently looking for a 4 months co-op for Spring 2022 (May - August)
+* :book: I'm a second-year CS student at the University of Waterloo. 
+* :mag: Currently looking for a 4 months co-op for Spring 2022 (May - August)!
 * :space_invader: Currently focusing on backend web development.
-* :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/)
+* :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/).
 
 ## Get in touch!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albertjlay/) [<img alt="Instagram" src="https://img.shields.io/badge/albertjlay-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/albertjlay/?hl=en)
