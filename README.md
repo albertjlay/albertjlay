@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/2P5VKDDy9mgvBl0xtn/giphy.gif" width="30px"> Hi, I'm Albert
+# <img src="https://media.giphy.com/media/2P5VKDDy9mgvBl0xtn/giphy.gif" width="30px" height="30px"> Hi, I'm Albert!
 
 ## A little bit about me
 * :book: I'm a second-year CS student at the University of Waterloo. 
@@ -6,7 +6,7 @@
 * :space_invader: Grinding through the AWS Certified Solutions Architect exam.
 * :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/).
 
-## Get in touch!
+## Get in touch
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albertjlay/) [<img alt="Instagram" src="https://img.shields.io/badge/albertjlay-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/albertjlay/?hl=en)
 
 
