@@ -3,11 +3,9 @@
 ## A little bit about me
 * :book: I'm a second-year CS student at the University of Waterloo. 
 * :mag: Currently looking for a 4 months co-op for Winter 2023 (January - April)!
-* :space_invader: Grinding through the AWS Certified Solutions Architect exam.
+* :space_invader: Just passed my AWS Solutions Architect exam in August 2022!
 * :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/).
 
-## Get in touch
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/albertjlay/) [<img alt="Instagram" src="https://img.shields.io/badge/albertjlay-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/albertjlay/?hl=en)
 
 
 
