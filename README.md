@@ -1,9 +1,9 @@
 # <img src="https://media.giphy.com/media/2P5VKDDy9mgvBl0xtn/giphy.gif" width="30px" height="30px"> Hi, I'm Albert!
 
 ## A little bit about me
-* :book: I'm a third-year CS student at the University of Waterloo and currently a Software Developer at Top Hat. 
+* :book: I'm a third-year CS student at the University of Waterloo.
 * :mag: Looking for opportunities in Winter and Summer 2024.
-* :space_invader: My interest of the month: OpenCV
+* 🇸🇪: Going on exchange to Lund University, Sweden in Fall 2023!
 * :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/).
 
 
