@@ -2,9 +2,8 @@
 
 ## A little bit about me
 * :book: I'm a fourth-year CS student at the University of Waterloo.
-* :statue_of_liberty: Full Stack Software Engineer Intern at Titan for Winter 2024.
-* :mag: Looking for opportunities in Summer 2024.
-* 🇸🇪: Went on exchange to Lund University, Sweden in Fall 2023!
+* 👷 Incoming Software Engineer Intern at StackAdapt (Winter 2025).
+* ⭐ Actively looking for September 2025 New Grad opportunities!
 * :globe_with_meridians: [**Get to know me better**](https://www.albertjlay.com/).
 
 
