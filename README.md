@@ -7,7 +7,6 @@
 - 💡 **Full-Stack Software Engineer** with 3 years of experience.
 - 🏢 Current SWE Intern @ [**StackAdapt**](https://www.stackadapt.com/) 
 - 🎓 **UWaterloo CS Class of 2025**   
-- 📌 Looking for **New-Grad SWE roles in Canada**
 
 ## 🛠 Tech Stack
 ### Languages
