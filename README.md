@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 💡 **Full-Stack Software Engineer** with 3 years of experience.
-- 🏢 Current SWE Intern @ [**StackAdapt**](https://www.stackadapt.com/) 
+- 🏢 Incoming Software Engineer at **[Zip](https://ziphq.com/)**
 - 🎓 **UWaterloo CS Class of 2025**   
 
 ## 🛠 Tech Stack
