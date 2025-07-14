@@ -1,10 +1,9 @@
 <div align="center"> 
   <h1>Hi, I'm Albert 👋</h1>
 </div>
-<img src="https://github.com/albertjlay/albertjlay/blob/main/github-banner.png" alt="Illustration of Albert Lay Coding">
 
 ## 🚀 About Me
-- 💡 **Full-Stack Software Engineer** with 3 years of experience.
+- 💡 **Software Engineer** with 3 years of experience.
 - 🏢 Incoming Software Engineer at **[Zip](https://ziphq.com/)**
 - 🎓 **UWaterloo CS Class of 2025**   
 
